@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+**Don't wait for opportunity create it!**
 <!--
 **jimmy-9898/jimmy-9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
